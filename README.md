@@ -1,6 +1,6 @@
-## Amazon Valid Email Checker
+## Amazon Email Validator
 
-![Amazon Valid Email Checker](https://raw.githubusercontent.com/alexrony21/amazon-email-checker/refs/heads/main/amazon-email-checker.png)
+![Amazon Email Validator](https://raw.githubusercontent.com/alexrony21/amazon-email-checker/refs/heads/main/amazon-email-checker-github.png)
 
 ---
 
@@ -16,9 +16,9 @@
 
 ## 📘 Use Cases
 
-* **Data Cleansing:** Purge invalid entries from your marketing lists.
-* **CRM Optimization:** Keep your customer database updated and reachable.
-* **Preprocessing:** Validate datasets before importing them into larger systems.
+* **Data Cleansing:** Purge invalid entries from your marketing lists
+* **CRM Optimization:** Keep your customer database updated and reachable
+* **Preprocessing:** Validate datasets before importing them into larger systems
 
 ---
 
